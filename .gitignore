@@ -1,0 +1,37 @@
+
+# Aider
+.aider*
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder settings
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+
+# macOS directory attributes
+Icon?
+._*
+
+# Visual Studio Code files
+.vscode/
+*.code-workspace
+
+# Cursor IDE files
+.cursor/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+**/__init__.py
+
+# history
+.history/
+agentic_databricks_data_cleaning.py
+DataPipleineAgentictest.ipynb
