@@ -1,0 +1,7 @@
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-openai>=0.2.0
+langgraph==0.6.6
+typing_extensions>=4.8.0
+playwright==1.45.0
+Pillow==10.4.0
